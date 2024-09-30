@@ -1,0 +1,4 @@
+Curr_Incoming,Avg_Incoming,Min_Incoming,Max_Incoming,Curr_Outgoing,Avg_Outgoing,Min_Outgoing,Max_Outgoing,Ttl_Value,Ttl_Unit,Network_Quality
+20.3,20.3,20.3,20.3,19.8,19.8,19.8,19.8,6.02,MByte,avg
+31.71,31.71,20.3,31.71,10.56,10.56,10.56,19.8,6.02,MByte,good
+31.98,28.09,20.3,31.98,680.0,7.04,680.0,19.8,6.02,MByte,good

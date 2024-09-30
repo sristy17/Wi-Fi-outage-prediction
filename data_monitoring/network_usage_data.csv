@@ -1,0 +1,2 @@
+ID,Interface,Date,Received Data,Transmitted Data,Total Data,Received Rate,Month,Total Received,Total Transmitted,Total Data 2,Transmitted Rate,Total Received 2,Total Transmitted 2,Total Data 3
+1,wlp0s20f3,2024-09-28,382.68 MiB,27.54 MiB,410.21 MiB,40.67 kbit/s,2024-09,948.64 MiB,92.34 MiB,1.02 GiB,3.61 kbit/s,948.64 MiB,92.34 MiB,1.02 GiB
